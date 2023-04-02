@@ -1,4 +1,4 @@
-## Hi there 👋
+## Open Genomic Data Lakehouse Initiative :8ball:
 
 <!--
 
