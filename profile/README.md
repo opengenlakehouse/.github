@@ -1,5 +1,6 @@
 ## Open Genomic Data Lakehouse Initiative :8ball:
 
+Work in progress - stay tuned!
 <!--
 
 **Here are some ideas to get you started:**
